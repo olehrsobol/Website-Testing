@@ -4,7 +4,7 @@ This repository contains a full set of testing artifacts created during manual t
 
 The goal of this project was to perform comprehensive testing of a website, covering key e-commerce functionality, including user registration, login/logout, product catalog, cart, search, filter, wishlist, and general site navigation.
 
-<strong>Testing Scope:</strong>
+> <strong>Testing Scope:</strong>
 <ul>
     <li>Functional testing</li>
     <li>UI/UX validation</li>
@@ -12,7 +12,7 @@ The goal of this project was to perform comprehensive testing of a website, cove
     <li>Negative testing</li>
 </ul>
 
-<strong>The repository includes:</strong>
+> <strong>Included Artifacts:</strong>
 <ol>
     <li><strong><a href="https://drive.google.com/file/d/1yuuHGCxmlRKhedrMn8g1kI16owAJwa6f/view?usp=sharing">Test Plan</a></strong>. Describes testing strategy, scope, objectives, roles, types of testing, tools used, and test execution approach.</li>
     <li><strong><a href="https://1drv.ms/x/c/2B57A09D981C9F2C/IQAh34_M6O5WS5nBeKWhOvP0AQSi6GL0wGAm1gF4RTqhHdU?e=DX0tqc">Checklist</a></strong>. High-level list of features and elements to be verified during testing.</li>
